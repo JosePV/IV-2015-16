@@ -8,7 +8,8 @@ Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lengua
  ahora instalamos dos entornos virtuales para node, versiones 4.2.0 y 0.11.15
  ![Imgur](http://i.imgur.com/AsGI0bo.png)
 
- 2. 
+ 2. Como voy a usar Django para crear la aplicación, usamos virtualenv para intalarlo:
+ ![Imgur](http://i.imgur.com/Fc7ij5j.png)
 
 
 ## Ejercicio 2
